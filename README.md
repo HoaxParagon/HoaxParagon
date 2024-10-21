@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HoaxParagon
+- 👋 Hi, I’m HoaxParagon
 - 👀 I’m interested in cyber security, deep learning and python.
 - 🌱 I’m currently learning on Try Hack Me, so far I've made it to around 5300 on the leaderboards
 
