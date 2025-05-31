@@ -6,7 +6,8 @@ ETH:
 0x1D49971b27f747Aa679E3c0cc4Fddf18bF510Da4  
 Dogecoin:  
 DAt9YiajRCWMQeULraCWSc53HDMfRw4Yaa  
-
+zcash 2:  
+t1Vo4BUhnSzAvqYSFGfmiruKDtXXTeMgY4h  
 <!---
 HoaxParagon/HoaxParagon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
