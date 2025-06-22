@@ -8,6 +8,8 @@ Dogecoin:
 DAt9YiajRCWMQeULraCWSc53HDMfRw4Yaa  
 zcash 2:  
 t1Vo4BUhnSzAvqYSFGfmiruKDtXXTeMgY4h  
+monero 1:  
+46zq84pr1zjGUTs5ZLe6qFhXR4VVD7CvxPoamJ6VuWFQdo9zj6hd91hCKLok2H5ca6Eoews2DgDJq3oFA1uDB56xKVZj9xN  
 <!---
 HoaxParagon/HoaxParagon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
